@@ -1,3 +1,6 @@
+# Archived
+We don't use Semantics3 anymore, so I'm archiving our fork of this repo
+
 # semantics3-java
 semantics3-java is a Java client for accessing the Semantics3 Products API, which provides structured information, including pricing histories, for a large number of products.
 See https://www.semantics3.com for more information.
